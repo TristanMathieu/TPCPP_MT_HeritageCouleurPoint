@@ -1,0 +1,7 @@
+#gitignore CPP
+
+/heritagePointCouleur/.vs
+/heritagePointCouleur/Debug
+/heritagePointCouleur/heritagePointCouleur/Debug
+
+
